@@ -1,0 +1,9 @@
+/* I will use External style for <div>, Internal style for <p>, and Inline style for <button>. */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
